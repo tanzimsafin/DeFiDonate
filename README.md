@@ -63,7 +63,7 @@ To set up the BlockRaise frontend locally, follow these steps:
     yarn start
     ```
 
-    The application will be available at [http://localhost:3000](http://localhost:3000).
+    The application will be available at [http://localhost:5173]http://localhost:5173.
 
 ## Usage
 
